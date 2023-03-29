@@ -14,8 +14,8 @@ nav.header a{
 }
 nav.header a:hover{
     background-color: rgb(0, 0, 0);
-    padding: 10px;
     border: 1px solid rgb(255, 0, 0);
-    border-radius: 10px
+    padding: 8px;
+    border-radius: 5px
 
 }
