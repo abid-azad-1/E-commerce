@@ -6,6 +6,7 @@
     border-radius: 10px;
     position: relative;
 }
+
 .product img {
     margin: 7px;
     width: 286px;
@@ -41,6 +42,7 @@
     position: absolute;
     bottom: 0px;
 }
-.btn-cart:hover{
-    background-color:#ff9900 ;
+
+.btn-cart:hover {
+    background-color: #ff9900;
 }
